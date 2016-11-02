@@ -14,7 +14,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'knock'
 
-# gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', '~> 3.1.7'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
 
